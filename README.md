@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Levi-Dan
+- 👋 Hi, I’m @Levi-Dan Azoulay
 - 👀 I’m interested in AI and Healthcare 
 - 🌱 I’m currently learning Data Sciences @IP Paris
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science projects applied to Healthcare
 - 📫 How to reach me: levi-dan.azoulay@polytechnique.edu
 
 <!---
